@@ -12,7 +12,8 @@ Popups are a very common way of presenting information to a user that relates to
 > [!NOTE]
 > If you wish to present something to the user that is more subtle then checkout our [Toast](../alerts/toast.md) and [Snackbar](../alerts/snackbar.md) options.
 
-The `Popup` view allows developers to build their own custom UI and present it to their users.
+> [!IMPORTANT]
+> You need to call "UseMauiCommunityToolkit" in your MauiProgram file in order for Popup to work
 
 ## Building a Popup
 
